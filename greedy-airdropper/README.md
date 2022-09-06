@@ -1,4 +1,4 @@
-# airdropper contract
+# greedy-airdropper contract
 
 ## overview
 If you've ever airdropped/sent out a token to the masses, you'd most likely know that it's not a free action. Send a token to another wallet requires processing, thus the fee that we lovingly call "transfer fee".
