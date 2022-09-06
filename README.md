@@ -6,4 +6,4 @@ They have all been lovingly ripped off of their original repositories and rename
 
 An overview of the contracts here are
 - [greedy-airdopper](https://github.com/keidyz/smart-contracts/blob/main/greedy-airdropper/README.md) - this allows people to distribute(airdrop) their tokens without paying for the transfer fees as the transfer fees will be covered by the receiver
-- [popular-shitcoin-token](https://github.com/keidyz/smart-contracts/tree/main/popular-shitcoin-token) - a re-write of the original safemoon contract with more readability and better logic flow
+- [popular-shitcoin-token](https://github.com/keidyz/smart-contracts/tree/main/popular-shitcoin-token) - my take on the safemoon contract with more readability and better logic flow
